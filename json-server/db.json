@@ -209,6 +209,14 @@
       "comment": "ddddddddd",
       "date": "2021-10-19T08:42:04.144Z",
       "id": 20
+    },
+    {
+      "dishId": 0,
+      "rating": "5",
+      "author": "Some name",
+      "comment": "Some comment",
+      "date": "2021-10-19T08:44:30.744Z",
+      "id": 21
     }
   ],
   "promotions": [
